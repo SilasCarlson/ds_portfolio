@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Silas Carlson's CV
 ---
-# Isaac Newton
+# Silas Carlson
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+    <a href="mailto:silascarlson14@gmail.com">silascarlson14@gmail.com</a>
+    <a href="https://www.linkedin.com/in/silas-carlson/">My LinkedIn profile</a>
 </div>
 
 
